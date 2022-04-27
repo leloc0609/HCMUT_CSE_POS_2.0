@@ -735,7 +735,7 @@ a:link{
     z-index: 3;
 }
 
-#menu, #cart {
+.menu, #cart {
     background-color: #fffafa;
     padding: 1rem;
 }
@@ -947,3 +947,4 @@ a:link{
     background: #7fad39;
     letter-spacing: 2px;
 }
+
