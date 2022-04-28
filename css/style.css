@@ -165,6 +165,13 @@
     background-size: cover;
 }
 
+.hero-header-contact {
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../img/bg-hero-contact.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .hero-header-menu {
     background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../img/bg-hero-menu.jpg);
     background-position: center center;
@@ -174,6 +181,13 @@
 
 .hero-header-cart {
     background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../img/bg-hero-cart.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-header-account {
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../img/bg-hero-account.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
