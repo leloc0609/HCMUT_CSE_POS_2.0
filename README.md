@@ -11,7 +11,9 @@ facilitates simplified, straight-forward and contact-less interactions between r
 and staffs, e.g. food ordering, servicing, and payment in any convenience. The application also supports automation of various internal restaurant management tasks, such as order recording, order
 status managing, transaction recording, etc.
 
+<p align="center">
 <img src="https://github.com/vy-nguyenlethao0510/HCMUT_CSE_POS_2.0/blob/hai/SoftwareReport/R/REPORT/61017fc978f5606b7f0ee2de_aloha-essentials-and-silver-no-orderpay-p-800.png">
+</p>
 
 ### Stateholders
 
@@ -31,8 +33,9 @@ edit and place their orders.
 services.
 
 ## System use-case digram 
-
+<p align="center">
 <img src="https://github.com/vy-nguyenlethao0510/HCMUT_CSE_POS_2.0/blob/hai/SoftwareReport/R/REPORT/259243473_617353449353167_471014773977634987_n.png" >
+</p>
 
 ## System architecture
 
