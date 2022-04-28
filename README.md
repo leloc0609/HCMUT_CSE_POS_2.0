@@ -2,6 +2,14 @@
 
 # POINT OF SALE 2.0
 
+## Team member:
+This project is proudly done by:
+* [Le Nguyen Tan Loc](https://github.com/leloc0609)
+* [Nguyen Van Quang](https://github.com/quangnguyen310)
+* [Vu Hoang Hai](https://github.com/DaTha7)
+* [Nguyen Le Thao Vy](https://github.com/vy-nguyenlethao0510)
+* [Nguyen Ly Dang Khoa](https://github.com/Khoabk) <br />
+
 ## Project briefing
 
 ### Context
