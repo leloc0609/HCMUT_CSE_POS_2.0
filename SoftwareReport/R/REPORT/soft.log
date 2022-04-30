@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.26)  30 APR 2022 22:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.26)  1 MAY 2022 00:42
 entering extended mode
 **./soft.tex
 (soft.tex
@@ -1807,7 +1807,7 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Untitled-1.png, id=94, 597.432pt x 845.0772pt>
+<Untitled-1.png, id=97, 597.432pt x 845.0772pt>
 File: Untitled-1.png Graphic file (type png)
 <use Untitled-1.png>
 Package pdftex.def Info: Untitled-1.png  used on input line 292.
@@ -1897,7 +1897,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 353.
-<Logo-BK.png, id=108, 522.5121pt x 475.0548pt>
+<Logo-BK.png, id=111, 522.5121pt x 475.0548pt>
 File: Logo-BK.png Graphic file (type png)
 <use Logo-BK.png>
 Package pdftex.def Info: Logo-BK.png  used on input line 356.
@@ -1923,7 +1923,7 @@ LaTeX Font Warning: Font shape `T1/ccr/m/it' in size <11.4> not available
 (Font)              size <10.95> substituted on input line 356.
 
 [1 <./Logo-BK.png>]
-<Screenshot 2022-02-17 144050.png, id=120, 1027.58907pt x 522.45187pt>
+<Screenshot 2022-02-17 144050.png, id=123, 1027.58907pt x 522.45187pt>
 File: Screenshot 2022-02-17 144050.png Graphic file (type png)
 <use Screenshot 2022-02-17 144050.png>
 Package pdftex.def Info: Screenshot 2022-02-17 144050.png  used on input line 3
@@ -1943,20 +1943,20 @@ LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 380.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 20.74pt on input line 380.
- (soft.toc)
-\tf@toc=\write6
-\openout6 = `soft.toc'.
-
+ (soft.toc
 File: Logo-BK.png Graphic file (type png)
 <use Logo-BK.png>
-Package pdftex.def Info: Logo-BK.png  used on input line 385.
+Package pdftex.def Info: Logo-BK.png  used on input line 37.
 (pdftex.def)             Requested size: 35.08067pt x 31.89995pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.385 \newpage
-               \setstretch{1.15} [1]
+l.37 ... {2}Minimum viable product}{24}{section.2}
+                                                  % [1])
+\tf@toc=\write6
+\openout6 = `soft.toc'.
+
 File: Logo-BK.png Graphic file (type png)
 <use Logo-BK.png>
 Package pdftex.def Info: Logo-BK.png  used on input line 385.
@@ -1967,7 +1967,7 @@ LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 394.
 <61017fc978f5606b7f0ee2de_aloha-essentials-and-silver-no-orderpay-p-800.png, id
-=158, 803.0pt x 452.69125pt>
+=162, 803.0pt x 452.69125pt>
 File: 61017fc978f5606b7f0ee2de_aloha-essentials-and-silver-no-orderpay-p-800.pn
 g Graphic file (type png)
 <use 61017fc978f5606b7f0ee2de_aloha-essentials-and-silver-no-orderpay-p-800.png
@@ -2022,7 +2022,7 @@ File: Logo-BK.png Graphic file (type png)
 Package pdftex.def Info: Logo-BK.png  used on input line 556.
 (pdftex.def)             Requested size: 35.08067pt x 31.89995pt.
  [9]
-<259243473_617353449353167_471014773977634987_n.png, id=203, 1279.78125pt x 160
+<259243473_617353449353167_471014773977634987_n.png, id=207, 1279.78125pt x 160
 6.0pt>
 File: 259243473_617353449353167_471014773977634987_n.png Graphic file (type png
 )
@@ -2035,7 +2035,7 @@ File: Logo-BK.png Graphic file (type png)
 Package pdftex.def Info: Logo-BK.png  used on input line 567.
 (pdftex.def)             Requested size: 35.08067pt x 31.89995pt.
  [10 <./259243473_617353449353167_471014773977634987_n.png>]
-<272520954_703266950872464_5753385862413650595_n.png, id=211, 1372.12625pt x 16
+<272520954_703266950872464_5753385862413650595_n.png, id=215, 1372.12625pt x 16
 48.1575pt>
 File: 272520954_703266950872464_5753385862413650595_n.png Graphic file (type pn
 g)
@@ -2074,7 +2074,7 @@ e identifier (name{section.3}) has been already used, duplicate ignored
                    \relax 
 l.642 \section{Class diagram}
                              
-<Screenshot 2022-03-05 180519.png, id=249, 930.47626pt x 557.83406pt>
+<Screenshot 2022-03-05 180519.png, id=253, 930.47626pt x 557.83406pt>
 File: Screenshot 2022-03-05 180519.png Graphic file (type png)
 <use Screenshot 2022-03-05 180519.png>
 Package pdftex.def Info: Screenshot 2022-03-05 180519.png  used on input line 6
@@ -2085,7 +2085,7 @@ Overfull \hbox (8.53581pt too wide) in paragraph at lines 649--650
  [][] 
  []
 
-<Screenshot 2022-03-05 182607.png, id=250, 1399.32788pt x 1874.05144pt>
+<Screenshot 2022-03-05 182607.png, id=254, 1399.32788pt x 1874.05144pt>
 File: Screenshot 2022-03-05 182607.png Graphic file (type png)
 <use Screenshot 2022-03-05 182607.png>
 Package pdftex.def Info: Screenshot 2022-03-05 182607.png  used on input line 6
@@ -2096,7 +2096,7 @@ Overfull \hbox (9.10489pt too wide) in paragraph at lines 656--658
  [][] 
  []
 
-<image.png, id=251, 1399.32788pt x 1733.12494pt>
+<image.png, id=255, 1399.32788pt x 1733.12494pt>
 File: image.png Graphic file (type png)
 <use image.png>
 Package pdftex.def Info: image.png  used on input line 661.
@@ -2106,7 +2106,7 @@ Overfull \hbox (9.10489pt too wide) in paragraph at lines 661--662
  [][] 
  []
 
-<image (2).png, id=252, 3504.09125pt x 2625.81pt>
+<image (2).png, id=256, 3504.09125pt x 2625.81pt>
 File: image (2).png Graphic file (type png)
 <use image (2).png>
 Package pdftex.def Info: image (2).png  used on input line 668.
@@ -2158,7 +2158,7 @@ ignored
                    \relax 
 l.692 ...tion{Integration and security advantages}
                                                   
-<Cloud-native Arch.png, id=283, 2790.425pt x 1348.03625pt>
+<Cloud-native Arch.png, id=287, 2790.425pt x 1348.03625pt>
 File: Cloud-native Arch.png Graphic file (type png)
 <use Cloud-native Arch.png>
 Package pdftex.def Info: Cloud-native Arch.png  used on input line 698.
@@ -2183,7 +2183,7 @@ Package pdftex.def Info: Logo-BK.png  used on input line 704.
                    \relax 
 l.711 ...on{Functional requirement implementation}
                                                   
-<functrq.png, id=294, 1678.27pt x 1545.775pt>
+<functrq.png, id=298, 1678.27pt x 1545.775pt>
 File: functrq.png Graphic file (type png)
 <use functrq.png>
 Package pdftex.def Info: functrq.png  used on input line 720.
@@ -2209,19 +2209,80 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
 (D:\Installed Programs\texstudio\MikTex\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
+<repostruct.png, id=311, 379.4175pt x 248.42813pt>
+File: repostruct.png Graphic file (type png)
+<use repostruct.png>
+Package pdftex.def Info: repostruct.png  used on input line 750.
+(pdftex.def)             Requested size: 299.23831pt x 195.93385pt.
+
+Overfull \hbox (69.05553pt too wide) in paragraph at lines 749--751
+ [][] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{section.2}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.762 \section{Minimum viable product}
+                                      
 File: Logo-BK.png Graphic file (type png)
 <use Logo-BK.png>
-Package pdftex.def Info: Logo-BK.png  used on input line 745.
+Package pdftex.def Info: Logo-BK.png  used on input line 767.
 (pdftex.def)             Requested size: 35.08067pt x 31.89995pt.
- [23]
+ [23 <./repostruct.png>]
+<Screenshot 2022-05-01 000318.png, id=320, 986.9372pt x 603.0028pt>
+File: Screenshot 2022-05-01 000318.png Graphic file (type png)
+<use Screenshot 2022-05-01 000318.png>
+Package pdftex.def Info: Screenshot 2022-05-01 000318.png  used on input line 7
+71.
+(pdftex.def)             Requested size: 455.24408pt x 278.14835pt.
+<Screenshot 2022-05-01 002849.png, id=321, 1445.4pt x 691.08188pt>
+File: Screenshot 2022-05-01 002849.png Graphic file (type png)
+<use Screenshot 2022-05-01 002849.png>
+Package pdftex.def Info: Screenshot 2022-05-01 002849.png  used on input line 7
+83.
+(pdftex.def)             Requested size: 455.24408pt x 217.66031pt.
+File: Logo-BK.png Graphic file (type png)
+<use Logo-BK.png>
+Package pdftex.def Info: Logo-BK.png  used on input line 787.
+(pdftex.def)             Requested size: 35.08067pt x 31.89995pt.
+ [24 <./Screenshot 2022-05-01 000318.png>]
+<Screenshot 2022-05-01 003050.png, id=328, 1445.4pt x 687.31781pt>
+File: Screenshot 2022-05-01 003050.png Graphic file (type png)
+<use Screenshot 2022-05-01 003050.png>
+Package pdftex.def Info: Screenshot 2022-05-01 003050.png  used on input line 7
+90.
+(pdftex.def)             Requested size: 455.24408pt x 216.4748pt.
+<Screenshot 2022-05-01 003209.png, id=329, 1445.4pt x 691.08188pt>
+File: Screenshot 2022-05-01 003209.png Graphic file (type png)
+<use Screenshot 2022-05-01 003209.png>
+Package pdftex.def Info: Screenshot 2022-05-01 003209.png  used on input line 8
+01.
+(pdftex.def)             Requested size: 455.24408pt x 217.66031pt.
+File: Logo-BK.png Graphic file (type png)
+<use Logo-BK.png>
+Package pdftex.def Info: Logo-BK.png  used on input line 805.
+(pdftex.def)             Requested size: 35.08067pt x 31.89995pt.
+ [25 <./Screenshot 2022-05-01 002849.png> <./Screenshot 2022-05-01 003050.png>]
+<Screenshot 2022-05-01 003849.png, id=338, 1434.10782pt x 672.26157pt>
+File: Screenshot 2022-05-01 003849.png Graphic file (type png)
+<use Screenshot 2022-05-01 003849.png>
+Package pdftex.def Info: Screenshot 2022-05-01 003849.png  used on input line 8
+08.
+(pdftex.def)             Requested size: 455.24408pt x 213.39452pt.
+File: Logo-BK.png Graphic file (type png)
+<use Logo-BK.png>
+Package pdftex.def Info: Logo-BK.png  used on input line 815.
+(pdftex.def)             Requested size: 35.08067pt x 31.89995pt.
+ [26 <./Screenshot 2022-05-01 003209.png> <./Screenshot 2022-05-01 003849.png>]
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 751.
+(Font)              scaled to size 8.0pt on input line 821.
 
 
 Package caption Warning: Unused \captionsetup[subfigure] on input line 158.
 See the caption package documentation for explanation.
 
-[24] (soft.aux)
+[27] (soft.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.45pt have occurred.
@@ -2230,36 +2291,37 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `soft.out' has not changed.
-(rerunfilecheck)             Checksum: A0202784AAB3A2A774106A34DD32C2C7;3659.
+(rerunfilecheck)             Checksum: B7DED8194D9D1EF2F0EA6965F49BE790;3819.
  ) 
 Here is how much of TeX's memory you used:
- 36509 strings out of 478927
- 718358 string characters out of 2855327
- 1202070 words of memory out of 3000000
- 53556 multiletter control sequences out of 15000+600000
- 586227 words of font info for 79 fonts, out of 8000000 for 9000
+ 36962 strings out of 478927
+ 723282 string characters out of 2855327
+ 1202068 words of memory out of 3000000
+ 53993 multiletter control sequences out of 15000+600000
+ 586541 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,20n,133p,755b,1050s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 85i,21n,133p,755b,1408s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\david\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
-1200.pk>{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/cochineal/coch_
-jhwmea.enc}{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/cochineal/co
-ch_otkq6i.enc}{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/base/8r.e
-nc} <C:\Users\david\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ecc/dpi657\eoti
-10.pk>{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/cochineal/coch_cu
-w7wa.enc}{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/lm/lm-ec.enc}<
-D:/Installed Programs/texstudio/MikTex/fonts/type1/public/cochineal/Cochineal-B
-old.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/public/cochineal/Co
-chineal-Italic.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/public/c
-ochineal/Cochineal-Roman.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type
-1/public/lm/lmssbx10.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/ad
-obe/utopia/putb8a.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/adobe
-/utopia/putr8a.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/urw/helv
-etic/uhvb8a.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/urw/palatin
-o/uplr8a.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/vntex/vnr/vnr1
-2.pfb>
-Output written on soft.pdf (28 pages, 6083381 bytes).
+1095.pk> <C:\Users\david\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ectt1200.pk>{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/cochineal
+/coch_jhwmea.enc}{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/cochin
+eal/coch_otkq6i.enc}{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/bas
+e/8r.enc} <C:\Users\david\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ecc/dpi65
+7\eoti10.pk>{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/cochineal/c
+och_cuw7wa.enc}{D:/Installed Programs/texstudio/MikTex/fonts/enc/dvips/lm/lm-ec
+.enc}<D:/Installed Programs/texstudio/MikTex/fonts/type1/public/cochineal/Cochi
+neal-Bold.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/public/cochin
+eal/Cochineal-Italic.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/pu
+blic/cochineal/Cochineal-Roman.pfb><D:/Installed Programs/texstudio/MikTex/font
+s/type1/public/lm/lmssbx10.pfb><D:/Installed Programs/texstudio/MikTex/fonts/ty
+pe1/adobe/utopia/putb8a.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1
+/adobe/utopia/putr8a.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/ur
+w/helvetic/uhvb8a.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/urw/p
+alatino/uplr8a.pfb><D:/Installed Programs/texstudio/MikTex/fonts/type1/vntex/vn
+r/vnr12.pfb>
+Output written on soft.pdf (31 pages, 8552508 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 486 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 303 words of extra memory for PDF output out of 10000 (max. 10000000)
 

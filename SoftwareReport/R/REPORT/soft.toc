@@ -34,3 +34,4 @@
 \contentsline {section}{\numberline {2}Functional requirement implementation}{21}{section.2}%
 \contentsline {section}{\numberline {D}System implementation}{23}{bluesection.4}%
 \contentsline {section}{\numberline {1}Github repository}{23}{section.1}%
+\contentsline {section}{\numberline {2}Minimum viable product}{24}{section.2}%

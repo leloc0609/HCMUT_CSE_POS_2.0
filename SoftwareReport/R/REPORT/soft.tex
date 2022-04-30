@@ -732,7 +732,7 @@ This following section demonstrates how our point-of-sale system will be built f
 \setcounter{section}{0}
 \section{Github repository}
 
-In order to keep track of the project's underneath updates from multiple sources, Github is an efficient choice for version controlling the entire system. Collaboration is also a seamless work when members can publish and review versions of each other.
+In order to keep track of the project's underneath updates from multiple sources, Github is an efficient choice for version controlling the entire system. Collaboration is also a seamless work when members can publish and review versions of each other, perform commission if necessary.
 
 \vspace{5mm}
 The project Github repository is at the following link, please use your designated web browser to view. If there is any trouble accessing the link, please contact us with our members email stated at the beginning of this project's report.
@@ -740,7 +740,77 @@ The project Github repository is at the following link, please use your designat
 \vspace{5mm}
 \url{https://github.com/vy-nguyenlethao0510/HCMUT\_CSE\_POS\_2.0}
 
-The structure of this repo is described in the figure below:
+\vspace{5mm}
+The structure of this repository is briefly described in the figure below:
+
+\begin{figure}[ht]\setstretch{1.2}
+	\begin{minipage}[t]{0.5\linewidth}
+		\centering
+		\includegraphics[%scale=1
+		width=1.3\linewidth, valign=t]{repostruct.png}
+		\caption{Github repo structure}
+		\label{GIS_Mapping_Software}
+	\end{minipage}%
+	\begin{minipage}[t]{0.5\linewidth}
+		As shown on the figure, there are a total of 6 directories, 5 of which are the website source codes written in HTML5, CSS, and Javascript languages. The final folder contains the actual report and all related diagrams included in with it.
+		
+		\vspace{5mm}
+		The individual \lstinline|.html| components are the functional websites of the system. At this stage, they are considered minimum viable products. In future implementation, the repository will include core API databases for fully functionality of the system.
+	\end{minipage}
+\end{figure}
+
+\section{Minimum viable product}
+
+In the Github repository aforementioned, the user-interface of the website is included. In this section, the site is demonstrated visually as well as its core functionality.
+
+\vspace{5mm}
+The following figure is the homepage of the website when customers access it.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{Screenshot 2022-05-01 000318.png}
+	\caption{Restaurant home page.}
+	\label{fig:index}
+\end{figure}
+
+When the customer scrolls down the page, they will be greeted with restaurant information, the menu, the booking system, chefs introduction and other restaurateurs reviews. The webpage is intuitively designed with modern, simplistic components, menus, swift and smooth animations incorporated with ease of use.
+
+\vspace{5mm}
+In addition, in the design is the scroll-to-top element that aids the hassle of having to scroll back up to the top of the page when you need to access the menu bar.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{Screenshot 2022-05-01 002849.png}
+	\caption{Menu at a glance.}
+	\label{fig:menus}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{Screenshot 2022-05-01 003050.png}
+	\caption{Chefs and customer reviews.}
+	\label{fig:reviews}
+\end{figure}
+
+The shopping cart is integrated as you go along the menu and add items in. Users can quickly glance at the meals they included, their prices, adjust the quantity or delete them altogether.
+
+\vspace{5mm}
+The contact page adds a map element to show the restaurant branches available in the cities or locally near the user.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{Screenshot 2022-05-01 003209.png}
+	\caption{Checkout cart.}
+	\label{fig:cart}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{Screenshot 2022-05-01 003849.png}
+	\caption{Contact information.}
+	\label{fig:cnt}
+\end{figure}
+
+In the next step of the project, this system will be finalized with working database to store customers details, usable system functionality and integrated payment system.
 
 \newpage
 \thispagestyle{empty}
