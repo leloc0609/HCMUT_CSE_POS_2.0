@@ -54,6 +54,7 @@
 \usepackage[explicit]{titlesec}
 \usepackage{shadowtext}
 \usepackage{longtable}
+\usepackage{hyperref}
 \definecolor{myBlue}{HTML}{0088FF}
 \makeatletter
 
@@ -268,6 +269,12 @@
 	\begin{mdframed}[]\relax%
 		\label{#2}}{\end{mdframed}}
 
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=blue,      
+	urlcolor=blue,
+}
 
 \begin{document}
 \selectlanguage{english}
@@ -714,6 +721,26 @@ When a user executes an order on the website, their operations are performed in 
 	\caption{Deployment graph of a restaurant POS and its functional requirements.}
 	\label{fig:reqdiag}
 \end{sidewaysfigure}
+
+\newpage
+\section*{System implementation}
+\addcontentsline{toc}{section}{\protect\numberline{D}System implementation}%
+\setstretch{1.3}
+
+This following section demonstrates how our point-of-sale system will be built from the elements instated in the previous chapters. The entire implementation will involve three stages: a front-end, back-end and the APIs that we have declared in the \textbf{System Architecture} chapter. These will connect to the cloud core structures and each version of implementation is controlled via a Github repository.
+
+\setcounter{section}{0}
+\section{Github repository}
+
+In order to keep track of the project's underneath updates from multiple sources, Github is an efficient choice for version controlling the entire system. Collaboration is also a seamless work when members can publish and review versions of each other.
+
+\vspace{5mm}
+The project Github repository is at the following link, please use your designated web browser to view. If there is any trouble accessing the link, please contact us with our members email stated at the beginning of this project's report.
+
+\vspace{5mm}
+\url{https://github.com/vy-nguyenlethao0510/HCMUT\_CSE\_POS\_2.0}
+
+The structure of this repo is described in the figure below:
 
 \newpage
 \thispagestyle{empty}
