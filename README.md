@@ -7,7 +7,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 <br />
 <img align="center" width="200" height="200" src="https://github.com/vy-nguyenlethao0510/HCMUT_CSE_POS_2.0/blob/hai/SoftwareReport/R/REPORT/Logo-BK.png">
 
-**Software Engineering / Semester 211**
+**Software Engineering / Semester 212**
 <br/>
 **Team iGears**
 
