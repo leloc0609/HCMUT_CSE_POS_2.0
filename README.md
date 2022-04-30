@@ -1,4 +1,19 @@
-<img align="left" width="80" height="80" src="https://github.com/vy-nguyenlethao0510/HCMUT_CSE_POS_2.0/blob/hai/SoftwareReport/R/REPORT/Logo-BK.png">
+<div align="center">
+VIETNAM NATIONAL UNIVERSITY, HO CHI MINH CITY
+<br />
+UNIVERSITY OF TECHNOLOGY
+<br />
+FACULTY OF COMPUTER SCIENCE AND ENGINEERING
+<br />
+<img align="center" width="200" height="200" src="https://github.com/vy-nguyenlethao0510/HCMUT_CSE_POS_2.0/blob/hai/SoftwareReport/R/REPORT/Logo-BK.png">
+
+**Software Engineering / Semester 211**
+<br/>
+**Team iGears**
+
+</div>
+
+
 
 # POINT OF SALE 2.0
 
