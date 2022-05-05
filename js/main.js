@@ -136,6 +136,173 @@
             }
         }
     });
-    
+
+
+
 })(jQuery);
+
+
+function deleteItem1(){
+    let cart = document.getElementById("cart-item-1")
+    cart.classList.add("cart-item-1-hidden")
+    let mini_cart = document.getElementById("mini-cart-item-1")
+    mini_cart.classList.add("cart-item-1-hidden")
+}
+
+function deleteItem2() {
+    let cart = document.getElementById("cart-item-2")
+    cart.classList.add("cart-item-2-hidden")
+    let mini_cart = document.getElementById("mini-cart-item-2")
+    mini_cart.classList.add("cart-item-2-hidden")
+}
+
+function deleteItem3(){
+    let cart = document.getElementById("cart-item-3")
+    cart.classList.add("cart-item-3-hidden")
+    let mini_cart = document.getElementById("mini-cart-item-3")
+    mini_cart.classList.add("cart-item-3-hidden")
+}
+
+function deleteItem4(){
+    let cart = document.getElementById("cart-item-4")
+    cart.classList.add("cart-item-4-hidden")
+    let mini_cart = document.getElementById("mini-cart-item-4")
+    mini_cart.classList.add("cart-item-4-hidden")
+}
+
+function deleteItem5(){
+    let cart = document.getElementById("cart-item-5")
+    cart.classList.add("cart-item-5-hidden")
+    let mini_cart = document.getElementById("mini-cart-item-5")
+    mini_cart.classList.add("cart-item-5-hidden")
+}
+
+function deleteItem6(){
+    let cart = document.getElementById("cart-item-6")
+    cart.classList.add("cart-item-6-hidden")
+    let mini_cart = document.getElementById("mini-cart-item-6")
+    mini_cart.classList.add("cart-item-6-hidden")
+}
+
+function deleteItem7(){
+    let cart = document.getElementById("cart-item-7")
+    cart.classList.add("cart-item-7-hidden")
+    let mini_cart = document.getElementById("mini-cart-item-7")
+    mini_cart.classList.add("cart-item-7-hidden")
+}
+
+function countTotal(index){
+    var count1 = parseInt(document.getElementById("qty-item-1").value);
+    var count2 = parseInt(document.getElementById("qty-item-2").value);
+    var count3 = parseInt(document.getElementById("qty-item-3").value);
+
+    switch (index){
+        case 1:
+            count1 = count1 + 1;
+            break;
+        case 2:
+            count2 = count2 + 1;
+            break;
+        case 3:
+            count3 = count3 + 1;
+            break;
+        case -1:
+            count1 = count1 -1;
+            break;
+        case -2:
+            count2 = count2 -1;
+            break;
+        case -3:
+            count3 = count3 -1;
+            break;
+    }
+    console.log(count1+" "+count2+" "+count3)
+    var amount = (count3 + count2 + count1)*115;
+    let text = "Subtotal <span> $"+ amount.toString() + ".00 </span>";
+    let text2 = "Total <span> $"+ amount.toString() + ".00 </span>";
+    document.getElementById("subtotal").innerHTML=text;
+    document.getElementById("total").innerHTML=text2;
+}
+
+function countItem1(){
+    var count = parseInt(document.getElementById("qty-item-1").value);
+    console.log(count)
+    var final;
+    if(count < 10) {
+        final = (count+1)*115;
+        document.getElementById("total-item-1").innerHTML = final.toString();}
+    else{
+        final = count * 115;
+        document.getElementById("total-item-1").innerHTML = final.toString();
+    }
+    console.log(final);
+    countTotal(1);
+
+}
+function m_countItem1() {
+    var count = parseInt(document.getElementById("qty-item-1").value);
+    console.log(count)
+    var final;
+    if(count <= 1)  document.getElementById("total-item-1").innerHTML = "115";
+    else {
+        final = (count - 1) * 115;
+        document.getElementById("total-item-1").innerHTML = final.toString();
+    }
+    final = -final;
+    countTotal(-1);
+}
+function countItem2(){
+    var count = parseInt(document.getElementById("qty-item-2").value);
+    console.log(count)
+    var final;
+    if(count < 10) {
+        final = (count+1)*115;
+        document.getElementById("total-item-2").innerHTML = final.toString();}
+    else{
+        final = count * 115;
+        document.getElementById("total-item-2").innerHTML = final.toString();
+    }
+    console.log(final);
+    countTotal(2);
+
+}
+function m_countItem2() {
+    var count = parseInt(document.getElementById("qty-item-2").value);
+    console.log(count)
+    var final;
+    if(count <= 1)  document.getElementById("total-item-2").innerHTML = "115";
+    else {
+        final = (count - 1) * 115;
+        document.getElementById("total-item-2").innerHTML = final.toString();
+        console.log(final);
+    }
+    countTotal(-2);
+}
+function countItem3(){
+    var count = parseInt(document.getElementById("qty-item-3").value);
+    console.log(count)
+    var final;
+    if(count < 10) {
+        final = (count+1)*115;
+        document.getElementById("total-item-3").innerHTML = final.toString();}
+    else{
+        final = count * 115;
+        document.getElementById("total-item-3").innerHTML = final.toString();
+    }
+    console.log(final);
+    countTotal(3);
+
+}
+function m_countItem3() {
+    var count = parseInt(document.getElementById("qty-item-3").value);
+    console.log(count)
+    var final;
+    if(count <= 1)  document.getElementById("total-item-3").innerHTML = "115";
+    else {
+        final = (count - 1) * 115;
+        document.getElementById("total-item-3").innerHTML = final.toString();
+        console.log(final);
+    }
+    countTotal(-3);
+}
 
